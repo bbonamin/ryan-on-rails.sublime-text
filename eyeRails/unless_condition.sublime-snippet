@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[<% unless $1 %>]]></content>
-    <tabTrigger>unl</tabTrigger>
-    <scope>text.html.ruby</scope>
-    <description>unless condition</description>
-</snippet>
